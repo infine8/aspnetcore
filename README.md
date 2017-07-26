@@ -151,7 +151,7 @@ export ASPNETCORE_ENVIRONMENT=Development
 Using `dotnet publish`, when it's finished place the generated folder onto your server and use IIS to fire everything up.
 
 ### Heroku 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/MarkPieszak/aspnetcore-angular2-universal.git">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/infine8/aspnetcore.git">
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku">
 </a>
 
